@@ -1,8 +1,8 @@
 # Ex - 13 - MESSAGE AUTHENTICATION CODE(MAC)
 
 ```
-Name: Oswald Shilo
-Register No : 212223040139
+Name: NIJEESH NJ
+Register No : 212223100039
 ```
 
 ## Aim:
@@ -95,6 +95,8 @@ int main() {
 ```
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/8a35b661-4ae4-489b-b16b-d84744725684)
+
 
 
 ## RESULT:
